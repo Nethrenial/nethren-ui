@@ -397,8 +397,8 @@
    */
    "projects": [
     {
-      "packageName": "",
-      "projectFolder": "tools/my-toolchain"
+      "packageName": "nethren-ui",
+      "projectFolder": "libraries/nethren-ui"
     }
   ]
 }
